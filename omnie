@@ -1,0 +1,45 @@
+<html>
+<body bgcolor=#D8D8D8>
+
+<center>
+
+<hr>
+<h1>O MNIE</h1>
+</hr>
+<hr> </hr>
+
+<img src="gif.gif" border=5 />
+
+<br><br><br>
+<a href=index.html>main</a>
+<br><br>
+<table border=1 width=50%>
+<tr align=center>
+<td>A1</td>
+<td>A2</td>
+</tr>
+
+<tr align=center>
+<td>B1</td>
+<td>B2</td>
+</tr>
+
+<tr align=center>
+<td>C1</td>
+<td>C2</td>
+</tr>
+
+</table>
+
+<br><br>
+<div style="background-color: green; width=30%">
+<h1> <b> SKATE </b> </h1>
+<h1> <u> ARTUR </u> </h1>
+<h1> <i> REKOWSKI </i> </h1>
+</div>
+
+
+</center>
+
+</body>
+</html> 
